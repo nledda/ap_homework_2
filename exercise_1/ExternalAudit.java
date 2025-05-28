@@ -14,7 +14,7 @@ public class ExternalAudit {
         return pin;
     }
 
-    public String getInternalNote{
+    public String getInternalNote(){
         return getInternalNote;
     }
 

@@ -13,7 +13,7 @@ public class AccountManager {
         return pin;
     }
 
-    public String getInternalNote{
+    public String getInternalNote(){
         return getInternalNote;
     }
 }
